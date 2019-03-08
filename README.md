@@ -6,14 +6,14 @@
     * pip v.s. conda
        * Installing and updating packages
     * Uses of VEnvs
-1. Performance
-    * debugging with pdb
-    * Line profiling and optimization
 1. Working with exceptions
     * Types of exceptions
     * Catching exceptions
         * try
         * except
+1. Performance
+    * debugging with pdb
+    * Line profiling and optimization
 1. Object Oriented Programing (OOP)
     * What is OOP?
     * Creating a class
