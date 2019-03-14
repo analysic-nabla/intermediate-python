@@ -11,7 +11,7 @@
     * Catching exceptions
         * try
         * except
-1. Performance
+1. Debugging and Performance
     * debugging with pdb
     * Line profiling and optimization
 1. Object Oriented Programing (OOP)
