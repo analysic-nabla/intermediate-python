@@ -12,6 +12,7 @@
         * try
         * except
 1. Debugging and Performance
+    * IPython Magics
     * debugging with pdb
     * Line profiling and optimization
 1. Object Oriented Programing (OOP)
