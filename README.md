@@ -11,7 +11,7 @@
     * Catching exceptions
         * try
         * except
-1. Debugging and Performance
+1. Debugging and Profiling
     * IPython Magics
     * debugging with pdb
     * Line profiling and optimization
