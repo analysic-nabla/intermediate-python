@@ -1,4 +1,7 @@
 # Intermediate Python
+![](https://avatars0.githubusercontent.com/u/40369113?s=400&u=c967732f5ac2ebb5ba45840ed884c34c8cbbb3df&v=4)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/analysic-nabla/intermediate-python/master)
 
 ## Syllabus
 
